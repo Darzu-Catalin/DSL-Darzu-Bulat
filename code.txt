@@ -1,0 +1,12 @@
+intNumber b := 1
+intNumber g := 10
+
+while [b < g]
+start
+
+print b
+end
+
+
+exit
+
